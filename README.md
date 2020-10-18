@@ -17,6 +17,11 @@ DATABASE_URI=mongodb://localhost/mobapp     # ParseServer DATABASE_URI
 PORT=1337                                   # Api Port
 ```
 
+# Running Application
+```
+$ npm start
+```
+
 # Interfaces
 ```
 # User
