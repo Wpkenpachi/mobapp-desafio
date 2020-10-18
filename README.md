@@ -5,6 +5,7 @@ $ npm i
 ```
 
 <b>Setting enviroment variables<b>
+First rename .env_example for .env
 ```
 # example
 API_URL=http://localhost:1337
