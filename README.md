@@ -69,7 +69,7 @@ Response:
 ]
 ```
 
-## Story Movies
+## Store Movies
 Url: API_URL/store/movies <br/>
 Headers:
 ```
