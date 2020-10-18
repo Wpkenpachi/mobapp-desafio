@@ -8,13 +8,13 @@ $ npm i
 First rename .env_example for .env
 ```
 # example
-API_URL=http://localhost:1337
-SERVER_URL=http://localhost:1337/parse
-SECRET=mobapp
-APPLICATION_ID=appid
-MASTER_KEY=masterkey
-DATABASE_URI=mongodb://localhost/mobapp
-PORT=1337
+API_URL=http://localhost:1337               # Api Url
+SERVER_URL=http://localhost:1337/parse      # ParseServer Url
+SECRET=mobapp                               # Jwt Secret
+APPLICATION_ID=appid                        # ParseServer APPLICATION_ID
+MASTER_KEY=masterkey                        # ParseServer MASTER_KEY
+DATABASE_URI=mongodb://localhost/mobapp     # ParseServer DATABASE_URI
+PORT=1337                                   # Api Port
 ```
 
 # Interfaces
